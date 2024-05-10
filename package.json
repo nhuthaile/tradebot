@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "asciichart": "^1.5.25",
     "ccxt": "^4.3.18",
     "delay": "^6.0.0",
     "moment": "^2.30.1"
