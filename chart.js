@@ -21,7 +21,7 @@ function drawChartV1() {
 
 drawChartV1();
 
-fs.watch("./trade_log.txt", (event, filename) => {
+fs.watch("./trade_log_1.txt", (event, filename) => {
   if (event === "change") {
     drawChartV1();
   }

@@ -8,8 +8,8 @@ const myConsole = new console.Console(
 
 // const delay = import("delay");
 const binance = new ccxt.binance({
-  apiKey: "MlJF7IuEg2Gi3hxX1qDhmAn7KBINvFqXUNsBfrX9gLP1VSSW8pdNiLi12QIz7YtM",
-  secret: "HFnO2JqHt1AC6FU21gouhaXBncrwALnGC1xvA1P9du38PJFJpw3YX392RKSZWydH",
+  apiKey: "WU7p1G1bgBvNUyUazTNeCpo5IdJiodX5svaznRUXctPEaH73YhCVA4tYcfuFOYDa",
+  secret: "OPe8VMl9lJ4QWUysz4SKJQyNcBMaDFKmAD8cKX8v3mjuNsAkifkxHuR2eAzlglpL",
 });
 binance.setSandboxMode(true);
 
